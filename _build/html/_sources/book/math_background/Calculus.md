@@ -1,3 +1,0 @@
-# Matrix calculus
-```{tableofcontents}
-```

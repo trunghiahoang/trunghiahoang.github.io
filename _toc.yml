@@ -7,3 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: markdown-notebooks-2
+  sections:
+    - file: path/to/chapter2/section1
